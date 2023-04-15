@@ -1,1 +1,3 @@
-# electric-tricycle-
+An electric propeller-driven tricycle, also known as an electric prop-driven trike, is a type of vehicle that utilizes electric power to propel itself using a propeller, typically located at the rear of the vehicle. It is a form of personal transportation that combines elements of both tricycles and aircraft, offering a unique and thrilling mode of travel.
+
+The basic structure of an electric propeller-driven tricycle typically consists of three wheels arranged in a triangular configuration, with the rear wheel serving as the drive wheel. The front two wheels provide stability and steering control. The rider typically sits in a seated position, similar to a traditional tricycle, and controls the vehicle using handlebars or a steering wheel, depending on the design.
